@@ -1,10 +1,5 @@
 ### Hi, I'm Ricardo Marassi
 
-<div>
-  <a href="https://github.com/rimarassi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimarassi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  
 </div>
 <a href = "mailto:ricardomarassi1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ricardo-marassi-343a24184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
