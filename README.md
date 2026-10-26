@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rimarassi/rimarassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `ricardo@github ~ $ whoami`
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="50%"><img src="./assets/about.svg" width="100%" alt="Apresentação de Ricardo Marassi"></td>
+<td width="50%"><img src="./assets/fastfetch.svg" width="100%" alt="Formação e tecnologias"></td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `ricardo@github ~ $ ls projects/`
+
+</div>
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **[SGE](https://github.com/rimarassi/sge)** | Gestão de produtos, marcas, fornecedores e movimentações de estoque. | Python, Django, Bootstrap |
+| **[Carros](https://github.com/rimarassi/carros)** | Aplicação para cadastro e gerenciamento de veículos. | Python, Django, PostgreSQL |
+| **[Flix API](https://github.com/rimarassi/flix_api)** | API REST de filmes, atores, gêneros e avaliações. | Python, Django REST Framework |
+| **[Flix App](https://github.com/rimarassi/flix_app)** | Interface Streamlit integrada à Flix API. | Python, Streamlit |
+
+<div align="center">
+
+`ricardo@github ~ $ echo "Obrigado pela visita!"`
+
+</div>
