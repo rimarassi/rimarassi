@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="570" viewBox="0 0 700 570">
+<rect x="1" y="1" width="698" height="568" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 43 H699" stroke="#30363d"/>
+<circle cx="22" cy="22" r="7" fill="#ff5f57"/>
+<circle cx="43" cy="22" r="7" fill="#febc2e"/>
+<circle cx="64" cy="22" r="7" fill="#28c840"/>
+<text x="350" y="27" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="14">ricardo@github:~ $ fastfetch</text>
+<text x="25" y="82" fill="#58a6ff" font-family="monospace" font-size="18" font-weight="bold">ricardo@github</text>
+<text x="25" y="108" fill="#8b949e" font-family="monospace" font-size="15" font-weight="normal">-----------------------</text>
+<text x="25" y="146" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Role</text>
+<text x="153" y="146" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">Bacharel em Ciência da Computação</text>
+<text x="25" y="176" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Focus</text>
+<text x="153" y="176" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">Python, Automação, Inteligência Artificial</text>
+<text x="25" y="206" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Local</text>
+<text x="153" y="206" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">Jundiaí, São Paulo, Brasil</text>
+<text x="25" y="255" fill="#58a6ff" font-family="monospace" font-size="19" font-weight="bold">~ Stack</text>
+<text x="25" y="292" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Lang</text>
+<text x="153" y="292" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">Python, SQL, JavaScript</text>
+<text x="25" y="324" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Backend</text>
+<text x="153" y="324" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">Django, DRF, FastAPI</text>
+<text x="25" y="356" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Frontend</text>
+<text x="153" y="356" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">HTML, CSS, Bootstrap, Streamlit</text>
+<text x="25" y="388" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Database</text>
+<text x="153" y="388" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">PostgreSQL, SQLite</text>
+<text x="25" y="420" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Cloud</text>
+<text x="153" y="420" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">AWS (EC2)</text>
+<text x="25" y="452" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">DevOps</text>
+<text x="153" y="452" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">Docker, Linux, Git, GitHub</text>
+<text x="25" y="484" fill="#3fb950" font-family="monospace" font-size="16" font-weight="bold">Infra</text>
+<text x="153" y="484" fill="#c9d1d9" font-family="monospace" font-size="16" font-weight="normal">Nginx, uWSGI</text>
+<path d="M1 535 H699" stroke="#30363d"/>
+<text x="17" y="557" fill="#8b949e" font-family="monospace" font-size="13">ricardo@github:~ $ fastfetch</text>
+</svg>
